@@ -1,0 +1,7 @@
+model_checkpoint_path: "ssd.ckpt-50001"
+all_model_checkpoint_paths: "ssd.ckpt-1"
+all_model_checkpoint_paths: "ssd.ckpt-10001"
+all_model_checkpoint_paths: "ssd.ckpt-20001"
+all_model_checkpoint_paths: "ssd.ckpt-30001"
+all_model_checkpoint_paths: "ssd.ckpt-40001"
+all_model_checkpoint_paths: "ssd.ckpt-50001"

@@ -1,0 +1,1 @@
+model_checkpoint_path: "vgg_16.ckpt"
